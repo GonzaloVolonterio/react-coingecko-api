@@ -1,7 +1,7 @@
 # CryptoMarket App
 
 
-## A React Native app that uses CoinGecko API when you can check the price if crypto money.
+## A React Native app that uses CoinGecko API when you can check the price of crypto money.
 
 ## Built With
  ```
