@@ -6,7 +6,7 @@
 ## Built With
  ```
 React
-React-dom
+React-hooks
 Axios
 Bootstrap
 CoinGecko API
@@ -23,7 +23,7 @@ https://gonzalovolonterio.github.io/react-coingecko-api/
 git clone https://github.com/GonzaloVolonterio/react-coingecko-api
 ```
 
-### Instalación 🔧
+### Install 🔧
 
 ```
 npm install
